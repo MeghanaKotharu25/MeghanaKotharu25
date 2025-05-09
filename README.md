@@ -41,7 +41,7 @@
 
 ### 🔗 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meghana-k-a65a25319/)  
-📫 Email: your-email@example.com  
+📫 Email: meghanakotaru25@gmail.com  
 
 ---
 
