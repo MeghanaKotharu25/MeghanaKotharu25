@@ -1,7 +1,7 @@
 ## Hey there! 👋 I'm Meghana
 
 🎓 BTech in Artificial Intelligence (2nd Year)  
-🏫 Amrita Vishwa Vidyapeetham  
+🏫 Amrita Vishwa Vidyapeetham, Chennai  
 
 ---
 
@@ -21,6 +21,12 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
@@ -34,18 +40,18 @@
 ---
 
 ### 🔗 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/meghana-k-a65a25319)  
-📫 Email: meghanakotaru25@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meghana-k-a65a25319/)  
+📫 Email: your-email@example.com  
 
 ---
 
 ### 📊 GitHub Stats
-![Meghana's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeghanaKotharu25&show_icons=true&theme=shadow_red)
+![Meghana's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeghanaKotharu25&show_icons=true&theme=aura_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghanaKotharu25&layout=compact&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghanaKotharu25&layout=compact&theme=aura_dark)
 
 ---
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/MeghanaKotharu25/MeghanaKotharu25/blob/output/github-contribution-grid-snake.svg)
+![snake gif](.github/workflows/snake.yml)
