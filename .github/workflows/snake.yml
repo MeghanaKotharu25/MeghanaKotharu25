@@ -20,8 +20,8 @@ jobs:
       # Push the generated file using GitHub token for authentication
       - name: Push gif to repository
         run: |
-          git config --global user.email "youremail@example.com"
-          git config --global user.name "your-github-username"
+          git config --global user.email "meghanakotaru25@gmail.com"
+          git config --global user.name "MeghanaKotharu25"
           git add github-contribution-grid-snake.svg
           git commit -m "Add contribution snake gif"
           git push https://x-access-token=${{ secrets.GH_TOKEN }}@github.com/MeghanaKotharu25/MeghanaKotharu25.git output
