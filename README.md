@@ -1,7 +1,7 @@
 ## Hey there! 👋 I'm Meghana
 
-🎓 BTech in Artificial Intelligence (2nd Year)  
-🏫 Amrita Vishwa Vidyapeetham, Chennai  
+🎓 BTech in Artificial Intelligence
+🏫 Amrita Vishwa Vidyapeetham  
 
 ---
 
