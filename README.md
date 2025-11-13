@@ -51,7 +51,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghanaKotharu25&layout=compact&theme=aura_dark)
 
 ---
-
-### 🐍 Contribution Snake
-
-![snake gif](.github/workflows/snake.yml)
