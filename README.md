@@ -35,7 +35,7 @@
 - 🎨 Drawing  
 - 🧘 Yoga  
 - 📚 Reading  
-- 📺 Binge-watching shows like there's no tomorrow  
+
 
 ---
 
