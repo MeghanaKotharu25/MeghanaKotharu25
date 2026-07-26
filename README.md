@@ -30,14 +30,6 @@
 
 ---
 
-### 🎯 When I'm Not Coding
-- 🎮 Gaming  
-- 🎨 Drawing  
-- 🧘 Yoga  
-- 📚 Reading  
-
-
----
 
 ### 🔗 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meghana-k-a65a25319/)  
@@ -46,8 +38,6 @@
 ---
 
 ### 📊 GitHub Stats
-![Meghana's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeghanaKotharu25&show_icons=true&theme=aura_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghanaKotharu25&layout=compact&theme=aura_dark)
+![Meghana's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeghanaKotharu25&show_icons=true&theme=a
 
 ---
