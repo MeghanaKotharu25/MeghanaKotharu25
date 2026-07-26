@@ -35,9 +35,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meghana-k-a65a25319/)  
 📫 Email: meghanakotaru25@gmail.com  
 
----
-
-### 📊 GitHub Stats
-![Meghana's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeghanaKotharu25&show_icons=true&theme=a
-
----
